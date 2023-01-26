@@ -1,0 +1,37 @@
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 130rem;
+  margin: 0 auto;
+  padding: 0 3.2rem;
+  padding-top: 35.2rem;
+  gap: 8rem;
+  align-items: center;
+}
+
+.text-part1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2.4rem;
+}
+
+.greeting {
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.profession {
+  font-size: 2.4rem;
+  font-weight: 600;
+  padding-top: 1rem;
+}
+
+.welcome {
+  font-size: 3.2rem;
+  font-weight: 600;
+}
+
+.text {
+  text-shadow: 0 4px 2px #f1f1f13f;
+}
